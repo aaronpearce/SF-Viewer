@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CSV.swift",
+        "repositoryURL": "https://github.com/yaslab/CSV.swift.git",
+        "state": {
+          "branch": "master",
+          "revision": "e8e82ac6fbc2ac4198e9916baf24892d3c8471ef",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
