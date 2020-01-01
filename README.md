@@ -36,7 +36,19 @@ Building the code
     sh ./bootstrap.sh
     ```
 3. Open `Symbals.xcworkspace` in Xcode.
-4. Build the `Symbals` scheme in Xcode.
+4. Find a source for the following fonts and drop them into the Fonts directory in Xcode:
+```SF-Pro-Text-Black.otf
+    SF-Pro-Text-Bold.otf
+    SF-Pro-Text-Heavy.otf
+    SF-Pro-Text-Light.otf
+    SF-Pro-Text-Medium.otf
+    SF-Pro-Text-Regular.otf
+    SF-Pro-Text-Semibold.otf
+    SF-Pro-Text-Thin.otf
+    SF-Pro-Text-Ultralight.otf
+    ```
+
+5. Build the `Symbals` scheme in Xcode.
 
 ## Code Signing
 
